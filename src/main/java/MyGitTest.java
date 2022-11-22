@@ -3,5 +3,6 @@ public class MyGitTest {
         System.out.println("firstCommit");
         System.out.println("hot-fix-firstCommit");
         System.out.println("secondCommit");
+        System.out.println("pullTest");
     }
 }
